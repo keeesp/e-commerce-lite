@@ -1,6 +1,8 @@
 {
   "name": "shop",
   "version": "0.1.0",
+  "homepage": "http://keeesp.github.io/e-commerce-lite",
+  
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
